@@ -42,20 +42,8 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["introduction", "quickstart"]
+      "pages": ["index", "TOC"]
     },
-    {
-      "group": "API Components",
-      "pages": ["api-playground/overview", "api-playground/configuration"]
-    },
-    {
-      "group": "Settings",
-      "pages": ["settings/global", "settings/page"]
-    },
-    {
-      "group": "Analytics",
-      "pages": ["analytics/posthog"]
-    }
   ],
   "footerSocials": {
     "github": "https://github.com/mintlify",
